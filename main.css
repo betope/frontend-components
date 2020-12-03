@@ -57,3 +57,20 @@
 .side-content {
 
 }
+
+/* FOOTER */
+.footer {
+  background-color: #0c1c2e;
+  padding: 10px;
+  text-align: center;
+}
+
+.footer p {color: #fff;}
+
+.footer a {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.heart-icon {color: #ed392f;}
