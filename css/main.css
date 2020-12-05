@@ -33,7 +33,8 @@
 .f-d-buttons {text-transform: uppercase;}
 
 .fork-btn,
-.download-btn {
+.download-btn,
+.download-all-btn {
   border: 1px solid #3172b8;
   border-radius: 5px;
   color: #3172b8;
@@ -43,7 +44,8 @@
 }
 
 .fork-btn:hover,
-.download-btn:hover {
+.download-btn:hover,
+.download-all-btn:hover {
   background-color: #3172b8;
   color: #fff;
 }
