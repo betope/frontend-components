@@ -8,3 +8,19 @@ pre {
   border-radius: 5px;
 
 }
+
+.component {margin-bottom: 100px;}
+
+.component-title h2 {font-size: 2rem;}
+
+.example-code h4 {font-size: 1.2rem;}
+
+.section-header {margin-bottom: 50px;}
+
+.html-code {
+  margin-bottom: 30px;
+}
+
+.css-code {
+
+}
