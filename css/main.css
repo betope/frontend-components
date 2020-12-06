@@ -59,10 +59,7 @@
 }
 
 /* MAIN CONTENT */
-.main-content {
-  border: 1px solid red;
-  flex-grow: 2;
-}
+.main-content {flex-grow: 2;}
 
 .component-title {
   display: flex;
@@ -70,10 +67,7 @@
 }
 
 /* SIDE CONTENT */
-.side-content {
- border: 1px solid green;
- flex-grow: 1;
-}
+.side-content {flex-grow: 1;}
 
 .main-content,
 .side-content {padding: 0 15px;}
