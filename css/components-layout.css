@@ -2,4 +2,12 @@
   align-items: baseline;
   display: flex;
   justify-content: space-between;
+  margin-bottom: 50px;
 }
+
+.css-code,
+.html-code,
+.script-code {
+  margin-bottom: 30px;
+}
+pre, code {}
