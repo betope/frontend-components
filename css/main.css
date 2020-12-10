@@ -55,14 +55,13 @@
 .content-wrapper {
   display: flex;
   flex-direction: row-reverse;
-  justify-content: center;
   margin: 0 auto;
   max-width: 75rem;
 }
 
 /* MAIN CONTENT */
 .main-content {
-
+  flex-grow: 2;
 }
 
 .component-title {
@@ -72,6 +71,7 @@
 
 /* SIDE CONTENT */
 .side-content {
+  flex-grow: 1;
 }
 
 .main-content,
