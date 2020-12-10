@@ -17,10 +17,19 @@ pre {
 
 .section-header {margin-bottom: 50px;}
 
+.code-lang {margin-bottom: 5px;}
+
+.css-code,
 .html-code {
   margin-bottom: 30px;
 }
 
 .css-code {
 
+}
+.example-box p {margin-bottom: 5px;}
+.result-code {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
 }
