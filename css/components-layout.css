@@ -10,4 +10,17 @@
 .script-code {
   margin-bottom: 30px;
 }
-pre, code {}
+pre {
+  background: #4a4948;
+  border-radius: 5px;
+  display: block;
+  white-space: pre;
+}
+
+code {
+  color: #fff;
+  font-family: "Courier New", monospace;
+  font-size: 14px;
+  padding: 0;
+  white-space: nowrap;
+}
